@@ -1,0 +1,21 @@
+//https://www.java.com/es/ 
+// comentario de una linea
+/* Comentario de varias lineas */
+
+
+//creacionde una constante 
+final int myint=12;
+tipo de dato no primitivo 
+String name= "Sara";
+// tipos de dato primitivo
+Byte mybyte=2
+short myshort=15,000
+int myint =1.000.000
+long mylong=1000,000,000;
+float myfloat =1,95546
+double mydouble 3.999999999999
+boolean myboolean=true;
+char mychar=A;
+
+System.out.print(" hola java");
+
